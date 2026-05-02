@@ -1,0 +1,6 @@
+{
+  "timeout": 8,
+  "threads": 20,
+  "github_token": "",
+  "_note": "Set github_token for higher GitHub API rate limits (optional). Threads: 10-50 recommended for Termux."
+}
