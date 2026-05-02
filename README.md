@@ -86,7 +86,7 @@ git clone https://github.com/Forhadj/OSINT
 cd OSINT
 
 # Run
-python ghost_v5.py
+python ran.py
 ```
 
 ### Linux / macOS
@@ -101,7 +101,7 @@ git clone https://github.com/Forhadj/OSINT
 cd OSINT
 
 # Run
-python3 ghost_v5.py
+python3 ran.py
 ```
 
 ---
